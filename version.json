@@ -1,6 +1,7 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/myxyx81/esp32-firmware_update_test/releases/download/v1.1.0/firmware.bin",
-  "notes": "Første OTA-oppdatering med forbedret serial kommando-funksjonalitet"
+  "version": "1.2.0",
+  "url": "https://github.com/myxyx81/esp32-firmware_update_test/releases/download/v1.2.0/firmware.bin",
+  "notes": "v1.2.0 - Production ready med tydelige oppdateringsmeldinger"
 }
+
 
